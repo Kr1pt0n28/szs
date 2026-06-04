@@ -1,0 +1,1088 @@
+{
+    "aplicacionOrigen": null,
+    "turnoConsultado": "2026-03-26 09:29",
+    "mensajeError": null,
+    "empleado": {
+        "usuario": "pedrvevi",
+        "clave": "Basic aXBzYXJlc3Q6cTM2bWlwc2Q3",
+        "tipoDni": "CC",
+        "dni": "33204004",
+        "primerNombre": "PEDRO",
+        "segundoNombre": "PEREZ",
+        "primerApellido": "PEDRO",
+        "segundoApellido": "PEREZ",
+        "especialidades": [
+            {
+                "codigo": 990,
+                "descripcion": "ODONTOLOGIA GENERAL"
+            }
+        ],
+        "sedes": [
+            {
+                "codigo": "2161",
+                "descripcion": "IPS SALUD SURA INDUSTRIALES"
+            },
+            {
+                "codigo": "32",
+                "descripcion": "COMFAMA GIRARDOTA "
+            },
+            {
+                "codigo": "104184",
+                "descripcion": "I.P.S. PUNTO DE SALUD CHAPINERO "
+            },
+            {
+                "codigo": "54",
+                "descripcion": "I.P.S. PUNTO DE SALUD ALTOS DEL PRADO"
+            },
+            {
+                "codigo": "99998",
+                "descripcion": "CENTRO DE ESPECIALISTAS"
+            },
+            {
+                "codigo": "140111",
+                "descripcion": "IPS SURA VIRTUAL"
+            },
+            {
+                "codigo": "2724",
+                "descripcion": "IPS SURA BELLO"
+            },
+            {
+                "codigo": "17042",
+                "descripcion": "SUCURSAL IPS ESPECIALIZADA"
+            },
+            {
+                "codigo": "29",
+                "descripcion": "COMFAMA SAN IGNACIO"
+            },
+            {
+                "codigo": "101",
+                "descripcion": "PTO DE SALUD UNICENTRO"
+            },
+            {
+                "codigo": "1788",
+                "descripcion": "I.P.S. PUNTO DE SALUD CHAPINERO"
+            },
+            {
+                "codigo": "79",
+                "descripcion": "I.P.S. PUNTO DE SALUD OLAYA"
+            },
+            {
+                "codigo": "89",
+                "descripcion": "I.P.S. PUNTO DE SALUD BELEN"
+            },
+            {
+                "codigo": "2712",
+                "descripcion": "CENTRO MEDICO COLSUBSIDIO CALI"
+            },
+            {
+                "codigo": "100512",
+                "descripcion": "HOSPITAL LA CANDELARIA "
+            },
+            {
+                "codigo": "9955",
+                "descripcion": "URGENCIAS IPS SURA LOS MOLINOS"
+            },
+            {
+                "codigo": "35",
+                "descripcion": "COOPSANA - CENTRO "
+            },
+            {
+                "codigo": "1789",
+                "descripcion": "I.P.S. PUNTO DE SALUD SAMAN"
+            },
+            {
+                "codigo": "2826",
+                "descripcion": "IPS SURA PROGRAMA ESPECIAL CUIDADO Y VIDA MEDELLIN"
+            },
+            {
+                "codigo": "102",
+                "descripcion": "PTO DE SALUD SUCRE "
+            },
+            {
+                "codigo": "1709",
+                "descripcion": "I.P.S. PUNTO DE SALUD MONTERREY"
+            },
+            {
+                "codigo": "27",
+                "descripcion": "COMFAMA ENVIGADO"
+            },
+            {
+                "codigo": "30",
+                "descripcion": "COMFAMA MANRIQUE"
+            },
+            {
+                "codigo": "5",
+                "descripcion": "SALUDSURA SAO PAULO"
+            },
+            {
+                "codigo": "20",
+                "descripcion": "I.P.S. PUNTO DE SALUD ROBLEDO"
+            },
+            {
+                "codigo": "119950",
+                "descripcion": "VIVA 1A IPS SANTA MARTA"
+            },
+            {
+                "codigo": "2671",
+                "descripcion": "IPS COLSUBSIDIO PEREIRA"
+            },
+            {
+                "codigo": "2798",
+                "descripcion": "IPS ESPECIALIZADA SURA"
+            },
+            {
+                "codigo": "170772",
+                "descripcion": "CENTRAL NACIONAL DE MEDICAMENTOS"
+            },
+            {
+                "codigo": "2218",
+                "descripcion": "IPS SURA BUCARAMANGA"
+            },
+            {
+                "codigo": "55",
+                "descripcion": "SALUD EN CASA MEDELLIN AHORA EN PUNTO SALUD"
+            },
+            {
+                "codigo": "80",
+                "descripcion": "I.P.S. PUNTO DE SALUD CENTRO"
+            },
+            {
+                "codigo": "2672",
+                "descripcion": "SALUD EN CASA INDUSTRIALES"
+            },
+            {
+                "codigo": "50105",
+                "descripcion": "INCODOL -PRUEBA"
+            },
+            {
+                "codigo": "125997",
+                "descripcion": "IPS CENTRO DE REHABILITACIÓN SURA MEDELLÍN"
+            },
+            {
+                "codigo": "78",
+                "descripcion": "I.P.S. PUNTO DE SALUD RIONEGRO"
+            }
+        ]
+    },
+    "turno": {
+        "codigoTurno": 31294,
+        "nombreTurno": "TN1",
+        "horaInicio": "2026-03-26T00:00:00.000-05:00",
+        "horaFin": "2026-03-26T23:00:00.000-05:00",
+        "zona": {
+            "codigoZona": 83,
+            "nombreZona": "Zona 3",
+            "ciudad": null
+        },
+        "ips": "",
+        "cerrado": true,
+        "horaInicioReal": "2026-03-26T14:29:25.543917-05:00",
+        "codigoSincronizacion": {
+            "codigoSincronizacion": "31294-33204004"
+        },
+        "horaFinReal": "2026-03-26T14:29:25.543917-05:00",
+        "finalizado": false,
+        "isFinalizado": false,
+        "estadoSincronizacion": ""
+    },
+    "citasArray": {
+        "citas": [
+            {
+                "horaInicio": "2026-03-26T01:42:00.000-05:00",
+                "horaFin": "2026-03-26T02:12:00.000-05:00",
+                "codigo": 112077,
+                "primeraVisita": false,
+                "ultimaVisita": true,
+                "textoAlerta": null,
+                "paciente": {
+                    "primerNombre": "DIEGO",
+                    "segundoNombre": "",
+                    "primerApellido": "VALENCIA",
+                    "segundoApellido": "VALENCIA",
+                    "tipoIdentificacion": "CC",
+                    "identificacion": "2222222",
+                    "plan": {
+                        "codigoPlan": "3",
+                        "nombrePlan": "PARTICULAR"
+                    },
+                    "peso": 0,
+                    "sexo": "Masculino",
+                    "fechaNacimiento": "1980-12-12-05:00",
+                    "direccion": "calle 27 a sur -47-50",
+                    "barrio": {
+                        "codigoBarrio": 1224,
+                        "nombreBarrio": "JARDINES"
+                    },
+                    "municipio": {
+                        "codigoMunicipio": 4292,
+                        "nombreMunicipio": "MEDELLIN"
+                    },
+                    "telefono1": "5104638",
+                    "telefono2": null,
+                    "celular": null,
+                    "zonaOrigen": {
+                        "codigoZona": 99,
+                        "nombreZona": "Regional Occidente S",
+                        "ciudad": {
+                            "codigoCiudad": 106,
+                            "nombreCiudad": "MEDELLIN",
+                            "codigoIPS": null
+                        }
+                    },
+                    "ciudad": {
+                        "codigoCiudad": 106,
+                        "nombreCiudad": "MEDELLIN",
+                        "codigoIPS": null
+                    },
+                    "personaFallecida": null
+                },
+                "zonaCita": {
+                    "codigoZona": 83,
+                    "nombreZona": "Zona 3",
+                    "ciudad": {
+                        "codigoCiudad": 106,
+                        "nombreCiudad": "MEDELLIN",
+                        "codigoIPS": null
+                    }
+                },
+                "diagnosticos": [
+                    {
+                        "codigoDiagnostico": "F454",
+                        "nombreDiagnostico": "TRASTORNO DE DOLOR PERSISTENTE SOMATOMORFO"
+                    }
+                ],
+                "cuidador": {
+                    "nombreCuidador": "PRUEBA",
+                    "parentesco": 0,
+                    "telefonoCuidador": "5104638",
+                    "descipcionParentesco": null
+                },
+                "medicamentos": null,
+                "curaciones": null,
+                "aspiraciones": null,
+                "nebulizacion": null,
+                "fototerapia": null,
+                "bebeCanguro": null,
+                "sondaje": null,
+                "tomaMuestra": null,
+                "educacionBasica": null,
+                "piccCvc": null,
+                "nutricion": null,
+                "remision": "5913",
+                "facturable": false,
+                "programa": {
+                    "codigo": "547",
+                    "nombre": "Paliativos"
+                },
+                "estadoCita": "EnSitio",
+                "registroDatosCompHeridas": null,
+                "registroHeridas": [],
+                "estadoSincronizacion": "PENDIENTE",
+                "horaLlegada": "2026-03-26T09:33:53.878118-05:00",
+                "horaInicioReal": null,
+                "registroAlergias": null,
+                "registroSignosVitales": null,
+                "registroRevisionSistemas": null,
+                "registroEducacionFamilia": null,
+                "registroAspiraciones": null,
+                "registroFototerapia": null,
+                "registroBebeCanguro": null,
+                "registroNebulizacion": null,
+                "notaAsistencial": null,
+                "registroTomaMuestraOrina": null,
+                "registroTomaMuestraSangre": null,
+                "registroBaciloscopia": null,
+                "registroCuidadoBasico": null,
+                "registroListaSeguridadVesical": null,
+                "registroCateteresPICC": null,
+                "registroInstalacionCateteres": null,
+                "registroSondajeOrogastrico": null,
+                "registroSondajeNasogastrico": null,
+                "registroSondajeVesical": null,
+                "registroCitostomia": null,
+                "notaEnfermeria": null,
+                "horaFinReal": "",
+                "causaEstadoCita": null,
+                "codigoCausaEstadoCita": null,
+                "autorizaEstadoCita": null
+            }
+        ]
+    },
+    "preguntasPrimeraVisita": [
+        {
+            "descripcion": "Preguntó el nombre del paciente ?",
+            "id": 1350,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Verificó el numero de identificación y el tipo de identificación?",
+            "id": 1351,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Verificó los números telefónicos ?",
+            "id": 1352,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Explicó que es Salud en Casa ?",
+            "id": 1353,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Entregó los plegables de atención según el programa ? ",
+            "id": 1354,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Entregó la tarjeta con el numero de la Linea Única?",
+            "id": 1355,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Dejó en el domiciliario los documentos para la atención ?",
+            "id": 1356,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Indagó sobre las alergias del paciente? ",
+            "id": 1357,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Explicó el proceso de atención ?",
+            "id": 1358,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Explicó los acuerdos de servicio frente a las horas de las visitas?","id": 1359,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Explicó a los cuidadores la importancia del acompañamiento?",
+            "id": 1360,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Explicó como es el proceso de desplazamiento fuera de la residencia ?","id": 1361,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Explicó el cuidado de los insumos y de los equipos dejados ?",
+            "id": 1362,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Explicó cuidado general del pacientes ?",
+            "id": 1363,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Explica al cuidador esta alternativa de tratamiento?",
+            "id": 1364,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Entrega el manual de aplicación",
+            "id": 1365,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Realiza acompañamiento en el proceso? ",
+            "id": 1366,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Firma el consentimiento informado? ",
+            "id": 1367,
+            "tipoPregunta": null
+        }
+    ],
+    "preguntasUltimaVisita": [
+        {
+            "descripcion": "Retiró acceso venoso del usuario ? ",
+            "id": 1368,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Se retiran todos los equipos que tiene contacto con el  paciente?","id": 1369,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Paciente queda acompañado ?",
+            "id": 1370,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Explica el proceso de atención desde su IPS Básica ",
+            "id": 1371,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Recolecta los registros de Salud en Casa ",
+            "id": 1372,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Recordó el posible pago de copagos a los beneficiarios ?",
+            "id": 1373,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Da educación sobre cuidados básicos ",
+            "id": 1374,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Da educación sobre cuidados de acuerdo a su enfermedad ",
+            "id": 1375,
+            "tipoPregunta": null
+        },
+        {
+            "descripcion": "Direcciona el paciente a las actividades de PYP ",
+            "id": 1376,
+            "tipoPregunta": null
+        }
+    ],
+    "signosVitales": {
+        "listaSignosVitales": [
+            {
+                "descripcion": "Presión Arterial Sistólica",
+                "unidad": "mm Hg",
+                "nombre": "PresionArterialSistolica",
+                "minimo": 0.0,
+                "maximo": 200.0,
+                "campoId": 134,
+                "tipoDato": null
+            },
+            {
+                "descripcion": "Presión Arterial Diastólica",
+                "unidad": "mm Hg",
+                "nombre": "presionArterialDiastolica",
+                "minimo": 0.0,
+                "maximo": 180.0,
+                "campoId": 135,
+                "tipoDato": null
+            },
+            {
+                "descripcion": "Frecuencia Cardiaca",
+                "unidad": "Latidos/min",
+                "nombre": "frecuenciaCardiaca",
+                "minimo": 0.0,
+                "maximo": 200.0,
+                "campoId": 133,
+                "tipoDato": null
+            },
+            {
+                "descripcion": "Frecuencia Respiratoria",
+                "unidad": "x min",
+                "nombre": "frecuenciaRespiratoria",
+                "minimo": 0.0,
+                "maximo": 60.0,
+                "campoId": 132,
+                "tipoDato": null
+            },
+            {
+                "descripcion": "Temperatura",
+                "unidad": "°C",
+                "nombre": "Temperatura",
+                "minimo": 0.0,
+                "maximo": 42.0,
+                "campoId": 136,
+                "tipoDato": null
+            },
+            {
+                "descripcion": "Dolor",
+                "unidad": null,
+                "nombre": "Dolor",
+                "minimo": 0.0,
+                "maximo": 10.0,
+                "campoId": 203,
+                "tipoDato": null
+            },
+            {
+                "descripcion": "Glucometría",
+                "unidad": "mg/dl",
+                "nombre": "glucometria",
+                "minimo": 0.0,
+                "maximo": 500.0,
+                "campoId": 137,
+                "tipoDato": null
+            },
+            {
+                "descripcion": "Saturación de Oxígeno",
+                "unidad": "%",
+                "nombre": "saturacionOxigeno",
+                "minimo": 0.0,
+                "maximo": 100.0,
+                "campoId": 8000030,
+                "tipoDato": null
+            }
+        ]
+    },
+    "alergiasPacientes": [
+        {
+            "alergias": [],
+            "identificacion": {
+                "tipo": "CC",
+                "numero": "2222222"
+            }
+        }
+    ],
+    "revisionSistemas": [
+        {
+            "nombre": "revisionGeneral",
+            "descripcion": "Revisión General",
+            "items": [
+                {
+                    "nombre": "conciente",
+                    "descripcion": "Consciente",
+                    "codigo": 146
+                },
+                {
+                    "nombre": "orientadoPersona",
+                    "descripcion": "Orientado en persona",
+                    "codigo": 147
+                },
+                {
+                    "nombre": "orientadoTiempo",
+                    "descripcion": "Orientado en tiempo",
+                    "codigo": 148
+                },
+                {
+                    "nombre": "orientadoEspacio",
+                    "descripcion": "Orientado en espacio",
+                    "codigo": 149
+                },
+                {
+                    "nombre": "afebril",
+                    "descripcion": "Fiebre",
+                    "codigo": 150
+                },
+                {
+                    "nombre": "hidratado",
+                    "descripcion": "Hidratado",
+                    "codigo": 151
+                },
+                {
+                    "nombre": "malestarGeneral",
+                    "descripcion": "Malestar general",
+                    "codigo": 152
+                },
+                {
+                    "nombre": "llanto",
+                    "descripcion": "Llanto (Solo menores)",
+                    "codigo": 153
+                }
+            ]
+        },
+        {
+            "nombre": "sistemaNeurologico",
+            "descripcion": "Sistema Neurologico",
+            "items": [
+                {
+                    "nombre": "cefalea",
+                    "descripcion": "Cefalea",
+                    "codigo": 154
+                },
+                {
+                    "nombre": "mareos",
+                    "descripcion": "Mareos",
+                    "codigo": 155
+                },
+                {
+                    "nombre": "problemaDesplazamiento",
+                    "descripcion": "Problemas para el desplazamiento",
+                    "codigo": 156
+                },
+                {
+                    "nombre": "paresias",
+                    "descripcion": "Paresias",
+                    "codigo": 157
+                },
+                {
+                    "nombre": "parestesias",
+                    "descripcion": "Parestesias",
+                    "codigo": 158
+                }
+            ]
+        },
+        {
+            "nombre": "sistemaRespiratorio",
+            "descripcion": "Sistema Respiratorio",
+            "items": [
+                {
+                    "nombre": "disnea",
+                    "descripcion": "Disnea",
+                    "codigo": 159
+                },
+                {
+                    "nombre": "tos",
+                    "descripcion": "Tos",
+                    "codigo": 160
+                },
+                {
+                    "nombre": "expectoracion",
+                    "descripcion": "Expectoración",
+                    "codigo": 161
+                },
+                {
+                    "nombre": "hemoptisis",
+                    "descripcion": "Hemoptisis",
+                    "codigo": 162
+                },
+                {
+                    "nombre": "retraccionesCostales",
+                    "descripcion": "Retracciones costales",
+                    "codigo": 163
+                }
+            ]
+        },
+        {
+            "nombre": "sistemaCardiovascular",
+            "descripcion": "Sistema Cardiovascular",
+            "items": [
+                {
+                    "nombre": "dolorPrecordial",
+                    "descripcion": "Dolor precordial",
+                    "codigo": 164
+                }
+            ]
+        },
+        {
+            "nombre": "sistemaDigestivo",
+            "descripcion": "Sistema Digestivo",
+            "items": [
+                {
+                    "nombre": "apetitoNormal",
+                    "descripcion": "Apetito normal",
+                    "codigo": 165
+                },
+                {
+                    "nombre": "nauseas",
+                    "descripcion": "Náuseas",
+                    "codigo": 166
+                },
+                {
+                    "nombre": "vomito",
+                    "descripcion": "Vómito",
+                    "codigo": 167
+                },
+                {
+                    "nombre": "disfagia",
+                    "descripcion": "disfagia",
+                    "codigo": 168
+                },
+                {
+                    "nombre": "pirosis",
+                    "descripcion": "Pirosis",
+                    "codigo": 169
+                },
+                {
+                    "nombre": "diarrea",
+                    "descripcion": "Diarrea",
+                    "codigo": 170
+                },
+                {
+                    "nombre": "constipacion",
+                    "descripcion": "Constipación",
+                    "codigo": 171
+                },
+                {
+                    "nombre": "melenas",
+                    "descripcion": "Melenas",
+                    "codigo": 172
+                }
+            ]
+        },
+        {
+            "nombre": "sistemaGenitourinario",
+            "descripcion": "Sistema Genitourinario",
+            "items": [
+                {
+                    "nombre": "Disuria",
+                    "descripcion": "Disuria",
+                    "codigo": 173
+                },
+                {
+                    "nombre": "hematuria",
+                    "descripcion": "Hematuria",
+                    "codigo": 174
+                },
+                {
+                    "nombre": "orinaTurbia",
+                    "descripcion": "Orina turbia",
+                    "codigo": 175
+                }
+            ]
+        },
+        {
+            "nombre": "extremidades",
+            "descripcion": "Extremidades",
+            "items": [
+                {
+                    "nombre": "edemas",
+                    "descripcion": "Edemas",
+                    "codigo": 176
+                },
+                {
+                    "nombre": "fracturas",
+                    "descripcion": "Fracturas",
+                    "codigo": 177
+                },
+                {
+                    "nombre": "llenadoCapilarNormal",
+                    "descripcion": "Llenado capilar normal",
+                    "codigo": 178
+                }
+            ]
+        },
+        {
+            "nombre": "piel",
+            "descripcion": "Piel",
+            "items": [
+                {
+                    "nombre": "presenciaHeridas",
+                    "descripcion": "Presencia de heridas",
+                    "codigo": 179
+                },
+                {
+                    "nombre": "hematomas",
+                    "descripcion": "Hematomas",
+                    "codigo": 180
+                },
+                {
+                    "nombre": "lesionesTraumaticas",
+                    "descripcion": "Lesiones traumáticas",
+                    "codigo": 181
+                }
+            ]
+        }
+    ],
+    "educacionFamilia": {
+        "items": [
+            {
+                "codigo": 32,
+                "descripcion": "Plan de tratamiento",
+                "nombre": "educPlanTratamiento"
+            },
+            {
+                "codigo": 33,
+                "descripcion": "Proceso de comunicación con salud en casa",
+                "nombre": "educProcesoComunicacion"
+            },
+            {
+                "codigo": 34,
+                "descripcion": "Instrucciones al alta",
+                "nombre": "educInstruccionAlta"
+            },
+            {
+                "codigo": 35,
+                "descripcion": "Cuidado de heridas",
+                "nombre": "educCuidadoHeridas"
+            },
+            {
+                "codigo": 14,
+                "descripcion": "Dudas e inquietudes",
+                "nombre": "educDudasInquietudes"
+            },
+            {
+                "codigo": 15,
+                "descripcion": "Signos y sintomas de alarma",
+                "nombre": "educSignosAlarma"
+            },
+            {
+                "codigo": 16,
+                "descripcion": "Posibles efectos adversos al tratamiento",
+                "nombre": "educEventosAdversos"
+            }
+        ]
+    },
+    "heridasPaciente": {
+        "heridasPacientes": [
+            {
+                "herida": [],
+                "datosComplentarios": {
+                    "fuma": "",
+                    "cuantosDia": 0,
+                    "suspendidoCuanto": "",
+                    "consumeLicor": "",
+                    "condicionesPactDomicilio": "",
+                    "observaciones": ""
+                },
+                "idFotografias": null,
+                "paciente": {
+                    "remision": "5913",
+                    "identificacion": {
+                        "tipo": "CC",
+                        "numero": "2222222"
+                    },
+                    "tipoVisita": null
+                }
+            }
+        ]
+    },
+    "heridas": {
+        "campos": [
+            {
+                "codigo": 56,
+                "descripcion": "Tipo de herida",
+                "nombre": "tipoHerida",
+                "orden": 1.0,
+                "respuestas": [
+                    {
+                        "codigo": 58,
+                        "descripcion": "Venosa"
+                    },
+                    {
+                        "codigo": 59,
+                        "descripcion": "Arterial"
+                    },
+                    {
+                        "codigo": 60,
+                        "descripcion": "Mixta"
+                    },
+                    {
+                        "codigo": 61,
+                        "descripcion": "Traumática"
+                    },
+                    {
+                        "codigo": 62,
+                        "descripcion": "Quirúrgica"
+                    },
+                    {
+                        "codigo": 63,
+                        "descripcion": "Pie diabético"
+                    },
+                    {
+                        "codigo": 64,
+                        "descripcion": "Úlcera por presión"
+                    },
+                    {
+                        "codigo": 65,
+                        "descripcion": "Quemadura"
+                    }
+                ]
+            },
+            {
+                "codigo": 66,
+                "descripcion": "Espesor Herida",
+                "nombre": "espesorHerida",
+                "orden": 2.0,
+                "respuestas": [
+                    {
+                        "codigo": 68,
+                        "descripcion": "Superficial"
+                    },
+                    {
+                        "codigo": 69,
+                        "descripcion": "Parcial"
+                    },
+                    {
+                        "codigo": 70,
+                        "descripcion": "Total"
+                    }
+                ]
+            },
+            {
+                "codigo": 71,
+                "descripcion": "Grado Herida",
+                "nombre": "gradoHerida",
+                "orden": 3.0,
+                "respuestas": [
+                    {
+                        "codigo": 73,
+                        "descripcion": "I"
+                    },
+                    {
+                        "codigo": 74,
+                        "descripcion": "II"
+                    },
+                    {
+                        "codigo": 75,
+                        "descripcion": "III"
+                    },
+                    {
+                        "codigo": 76,
+                        "descripcion": "IV"
+                    },
+                    {
+                        "codigo": 77,
+                        "descripcion": "V"
+                    },
+                    {
+                        "codigo": 78,
+                        "descripcion": "No clasificable"
+                    }
+                ]
+            },
+            {
+                "codigo": 79,
+                "descripcion": "Tipo de Exudado",
+                "nombre": "tipoExudado",
+                "orden": 3.0,
+                "respuestas": [
+                    {
+                        "codigo": 81,
+                        "descripcion": "Seroso"
+                    },
+                    {
+                        "codigo": 82,
+                        "descripcion": "Hemático"
+                    },
+                    {
+                        "codigo": 83,
+                        "descripcion": "Serohemático"
+                    },
+                    {
+                        "codigo": 84,
+                        "descripcion": "Purulento"
+                    },
+                    {
+                        "codigo": 85,
+                        "descripcion": "Seropurulento"
+                    },
+                    {
+                        "codigo": 86,
+                        "descripcion": "Verdoso"
+                    }
+                ]
+            },
+            {
+                "codigo": 87,
+                "descripcion": "Cantidad de Exudado",
+                "nombre": "tipoCantidadExudado",
+                "orden": 4.0,
+                "respuestas": [
+                    {
+                        "codigo": 89,
+                        "descripcion": "Abundante"
+                    },
+                    {
+                        "codigo": 90,
+                        "descripcion": "Moderado"
+                    },
+                    {
+                        "codigo": 91,
+                        "descripcion": "Escaso"
+                    },
+                    {
+                        "codigo": 92,
+                        "descripcion": "Ausente"
+                    }
+                ]
+            },
+            {
+                "codigo": 94,
+                "descripcion": "Piel Perilesional",
+                "nombre": "Piel Perilesional",
+                "orden": 5.0,
+                "respuestas": [
+                    {
+                        "codigo": 96,
+                        "descripcion": "Sana"
+                    },
+                    {
+                        "codigo": 97,
+                        "descripcion": "Irritada"
+                    },
+                    {
+                        "codigo": 98,
+                        "descripcion": "Macerada"
+                    },
+                    {
+                        "codigo": 99,
+                        "descripcion": "Lipodermatoesclerosis"
+                    },
+                    {
+                        "codigo": 100,
+                        "descripcion": "Eritematosa"
+                    },
+                    {
+                        "codigo": 101,
+                        "descripcion": "Isquémica"
+                    },
+                    {
+                        "codigo": 102,
+                        "descripcion": "Violácea"
+                    }
+                ]
+            },
+            {
+                "codigo": 251,
+                "descripcion": "Productos procedimiento",
+                "nombre": "Productos procedimiento",
+                "orden": 14.0,
+                "respuestas": [
+                    {
+                        "codigo": 253,
+                        "descripcion": "Hidrogel"
+                    },
+                    {
+                        "codigo": 254,
+                        "descripcion": "Hidrocoloide"
+                    },
+                    {
+                        "codigo": 255,
+                        "descripcion": "Apósito transparente"
+                    },
+                    {
+                        "codigo": 256,
+                        "descripcion": "Apósito con propiedades hidrófobas"
+                    },
+                    {
+                        "codigo": 257,
+                        "descripcion": "Película no adherente"
+                    },
+                    {
+                        "codigo": 258,
+                        "descripcion": "Vendaje con elastocompresión"
+                    },
+                    {
+                        "codigo": 259,
+                        "descripcion": "Producto con triticum vulgare"
+                    },
+                    {
+                        "codigo": 260,
+                        "descripcion": "Apósito de colágeno"
+                    },
+                    {
+                        "codigo": 261,
+                        "descripcion": "Hidropolimero"
+                    },
+                    {
+                        "codigo": 262,
+                        "descripcion": "Apósito para el control de la infección y carga bacteriana"
+                    },
+                    {
+                        "codigo": 263,
+                        "descripcion": "Hidrofibra con plata"
+                    },
+                    {
+                        "codigo": 264,
+                        "descripcion": "Espuma"
+                    },
+                    {
+                        "codigo": 265,
+                        "descripcion": "Sin producto"
+                    }
+                ]
+            }
+        ]
+    },
+    "numerosBaciloscopia": null,
+    "notasAnteriores": {
+        "notasAnteriores": [
+            {
+                "nota": null,
+                "profesional": null,
+                "fecha": null,
+                "paciente": {
+                    "tipo": "CC",
+                    "numero": "2222222"
+                }
+            }
+        ]
+    },
+    "errorPacientes": null
+}

@@ -1,0 +1,29 @@
+name: sura_voxia
+description: "sura voxia package de llenado de notas por voz"
+version: 0.0.1
+homepage: "github.com/tuusuario/sura_voxia"
+
+environment:
+  sdk: ^3.8.0-265.0.dev
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  audioplayers: ^6.5.1
+  speech_to_text: ^7.3.0
+  flutter_tts: ^4.2.3
+  http: ^1.2.0
+  permission_handler: ^11.3.0
+
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter: 
+  assets:
+    - .env
+ 

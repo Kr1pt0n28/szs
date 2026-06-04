@@ -1,0 +1,614 @@
+{
+    "aplicacionOrigen": null,
+    "turnoConsultado": null,
+    "mensajeError": null,
+    "empleado": {
+        "usuario": "pedrvevi",
+        "clave": "ed269e2fe94e75311ab92cb0915f524f38ab7f4bb7dcfbbc5e8a7edfb8f49f03",
+        "tipoDni": "CC",
+        "dni": "33204004",
+        "primerNombre": "PEDRO",
+        "segundoNombre": "PEREZ",
+        "primerApellido": "PEDRO",
+        "segundoApellido": "PEREZ",
+        "especialidades": [
+            {
+                "codigo": 990,
+                "descripcion": "ODONTOLOGIA GENERAL"
+            }
+        ],
+        "sedes": [
+            {
+                "codigo": "2161",
+                "descripcion": "IPS SALUD SURA INDUSTRIALES"
+            },
+            {
+                "codigo": "32",
+                "descripcion": "COMFAMA GIRARDOTA "
+            },
+            {
+                "codigo": "104184",
+                "descripcion": "I.P.S. PUNTO DE SALUD CHAPINERO "
+            },
+            {
+                "codigo": "54",
+                "descripcion": "I.P.S. PUNTO DE SALUD ALTOS DEL PRADO"
+            },
+            {
+                "codigo": "99998",
+                "descripcion": "CENTRO DE ESPECIALISTAS"
+            },
+            {
+                "codigo": "140111",
+                "descripcion": "IPS SURA VIRTUAL"
+            },
+            {
+                "codigo": "2724",
+                "descripcion": "IPS SURA BELLO"
+            },
+            {
+                "codigo": "17042",
+                "descripcion": "SUCURSAL IPS ESPECIALIZADA"
+            },
+            {
+                "codigo": "29",
+                "descripcion": "COMFAMA SAN IGNACIO"
+            },
+            {
+                "codigo": "101",
+                "descripcion": "PTO DE SALUD UNICENTRO"
+            },
+            {
+                "codigo": "1788",
+                "descripcion": "I.P.S. PUNTO DE SALUD CHAPINERO"
+            },
+            {
+                "codigo": "79",
+                "descripcion": "I.P.S. PUNTO DE SALUD OLAYA"
+            },
+            {
+                "codigo": "89",
+                "descripcion": "I.P.S. PUNTO DE SALUD BELEN"
+            },
+            {
+                "codigo": "2712",
+                "descripcion": "CENTRO MEDICO COLSUBSIDIO CALI"
+            },
+            {
+                "codigo": "100512",
+                "descripcion": "HOSPITAL LA CANDELARIA "
+            },
+            {
+                "codigo": "9955",
+                "descripcion": "URGENCIAS IPS SURA LOS MOLINOS"
+            },
+            {
+                "codigo": "35",
+                "descripcion": "COOPSANA - CENTRO "
+            },
+            {
+                "codigo": "1789",
+                "descripcion": "I.P.S. PUNTO DE SALUD SAMAN"
+            },
+            {
+                "codigo": "2826",
+                "descripcion": "IPS SURA PROGRAMA ESPECIAL CUIDADO Y VIDA MEDELLIN"
+            },
+            {
+                "codigo": "102",
+                "descripcion": "PTO DE SALUD SUCRE "
+            },
+            {
+                "codigo": "1709",
+                "descripcion": "I.P.S. PUNTO DE SALUD MONTERREY"
+            },
+            {
+                "codigo": "27",
+                "descripcion": "COMFAMA ENVIGADO"
+            },
+            {
+                "codigo": "30",
+                "descripcion": "COMFAMA MANRIQUE"
+            },
+            {
+                "codigo": "5",
+                "descripcion": "SALUDSURA SAO PAULO"
+            },
+            {
+                "codigo": "20",
+                "descripcion": "I.P.S. PUNTO DE SALUD ROBLEDO"
+            },
+            {
+                "codigo": "119950",
+                "descripcion": "VIVA 1A IPS SANTA MARTA"
+            },
+            {
+                "codigo": "2671",
+                "descripcion": "IPS COLSUBSIDIO PEREIRA"
+            },
+            {
+                "codigo": "2798",
+                "descripcion": "IPS ESPECIALIZADA SURA"
+            },
+            {
+                "codigo": "170772",
+                "descripcion": "CENTRAL NACIONAL DE MEDICAMENTOS"
+            },
+            {
+                "codigo": "2218",
+                "descripcion": "IPS SURA BUCARAMANGA"
+            },
+            {
+                "codigo": "55",
+                "descripcion": "SALUD EN CASA MEDELLIN AHORA EN PUNTO SALUD"
+            },
+            {
+                "codigo": "80",
+                "descripcion": "I.P.S. PUNTO DE SALUD CENTRO"
+            },
+            {
+                "codigo": "2672",
+                "descripcion": "SALUD EN CASA INDUSTRIALES"
+            },
+            {
+                "codigo": "50105",
+                "descripcion": "INCODOL -PRUEBA"
+            },
+            {
+                "codigo": "125997",
+                "descripcion": "IPS CENTRO DE REHABILITACIÓN SURA MEDELLÍN"
+            },
+            {
+                "codigo": "78",
+                "descripcion": "I.P.S. PUNTO DE SALUD RIONEGRO"
+            }
+        ]
+    },
+    "turno": {
+        "codigoTurno": 31294,
+        "nombreTurno": "TN1",
+        "horaInicio": "2026-03-26T00:00:00.000-05:00",
+        "horaFin": "2026-03-26T23:00:00.000-05:00",
+        "zona": {
+            "codigoZona": 83,
+            "nombreZona": "Zona 3",
+            "ciudad": null
+        },
+        "ips": "",
+        "cerrado": true,
+        "horaInicioReal": "2026-03-26T14:29:25.543917-05:00",
+        "codigoSincronizacion": {
+            "codigoSincronizacion": "31294-33204004"
+        },
+        "horaFinReal": "2026-03-26T14:48:23.747843-05:00",
+        "finalizado": false,
+        "isFinalizado": false,
+        "estadoSincronizacion": ""
+    },
+    "citasArray": {
+        "citas": [
+            {
+                "horaInicio": "2026-03-26T01:42:00.000-05:00",
+                "horaFin": "2026-03-26T02:12:00.000-05:00",
+                "codigo": 112077,
+                "primeraVisita": false,
+                "ultimaVisita": true,
+                "textoAlerta": null,
+                "paciente": {
+                    "primerNombre": "DIEGO",
+                    "segundoNombre": "",
+                    "primerApellido": "VALENCIA",
+                    "segundoApellido": "VALENCIA",
+                    "tipoIdentificacion": "CC",
+                    "identificacion": "2222222",
+                    "plan": {
+                        "codigoPlan": "3",
+                        "nombrePlan": "PARTICULAR"
+                    },
+                    "peso": 0,
+                    "sexo": "Masculino",
+                    "fechaNacimiento": "1980-12-12-05:00",
+                    "direccion": "calle 27 a sur -47-50",
+                    "barrio": {
+                        "codigoBarrio": 1224,
+                        "nombreBarrio": "JARDINES"
+                    },
+                    "municipio": {
+                        "codigoMunicipio": 4292,
+                        "nombreMunicipio": "MEDELLIN"
+                    },
+                    "telefono1": "5104638",
+                    "telefono2": null,
+                    "celular": null,
+                    "zonaOrigen": {
+                        "codigoZona": 99,
+                        "nombreZona": "Regional Occidente S",
+                        "ciudad": {
+                            "codigoCiudad": 106,
+                            "nombreCiudad": "MEDELLIN",
+                            "codigoIPS": null
+                        }
+                    },
+                    "ciudad": {
+                        "codigoCiudad": 106,
+                        "nombreCiudad": "MEDELLIN",
+                        "codigoIPS": null
+                    },
+                    "personaFallecida": null
+                },
+                "zonaCita": {
+                    "codigoZona": 83,
+                    "nombreZona": "Zona 3",
+                    "ciudad": {
+                        "codigoCiudad": 106,
+                        "nombreCiudad": "MEDELLIN",
+                        "codigoIPS": null
+                    }
+                },
+                "diagnosticos": [
+                    {
+                        "codigoDiagnostico": "F454",
+                        "nombreDiagnostico": "TRASTORNO DE DOLOR PERSISTENTE SOMATOMORFO"
+                    }
+                ],
+                "cuidador": {
+                    "nombreCuidador": "PRUEBA",
+                    "parentesco": 0,
+                    "telefonoCuidador": "5104638",
+                    "descipcionParentesco": null
+                },
+                "medicamentos": null,
+                "curaciones": null,
+                "aspiraciones": null,
+                "nebulizacion": null,
+                "fototerapia": null,
+                "bebeCanguro": null,
+                "sondaje": null,
+                "tomaMuestra": null,
+                "educacionBasica": null,
+                "piccCvc": null,
+                "nutricion": null,
+                "remision": "5913",
+                "facturable": false,
+                "programa": {
+                    "codigo": "547",
+                    "nombre": "Paliativos"
+                },
+                "estadoCita": "Realizado",
+                "registroDatosCompHeridas": null,
+                "registroHeridas": null,
+                "estadoSincronizacion": "REGISTRADO",
+                "horaLlegada": "2026-03-26T09:33:53.878118-05:00",
+                "horaInicioReal": "2026-03-26T14:37:32.251110-05:00",
+                "registroAlergias": null,
+                "registroSignosVitales": [
+                    {
+                        "nombre": "Presión Arterial Sistólica",
+                        "valor": -1.0,
+                        "campoId": 134,
+                        "tipoDato": null,
+                        "unidad": "mm Hg"
+                    },
+                    {
+                        "nombre": "Presión Arterial Diastólica",
+                        "valor": -1.0,
+                        "campoId": 135,
+                        "tipoDato": null,
+                        "unidad": "mm Hg"
+                    },
+                    {
+                        "nombre": "Frecuencia Cardiaca",
+                        "valor": -1.0,
+                        "campoId": 133,
+                        "tipoDato": null,
+                        "unidad": "Latidos/min"
+                    },
+                    {
+                        "nombre": "Frecuencia Respiratoria",
+                        "valor": -1.0,
+                        "campoId": 132,
+                        "tipoDato": null,
+                        "unidad": "x min"
+                    },
+                    {
+                        "nombre": "Temperatura",
+                        "valor": -1.0,
+                        "campoId": 136,
+                        "tipoDato": null,
+                        "unidad": "°C"
+                    },
+                    {
+                        "nombre": "Dolor",
+                        "valor": -1.0,
+                        "campoId": 203,
+                        "tipoDato": null,
+                        "unidad": null
+                    },
+                    {
+                        "nombre": "Glucometría",
+                        "valor": -1.0,
+                        "campoId": 137,
+                        "tipoDato": null,
+                        "unidad": "mg/dl"
+                    },
+                    {
+                        "nombre": "Saturación de Oxígeno",
+                        "valor": -1.0,
+                        "campoId": 8000030,
+                        "tipoDato": null,
+                        "unidad": "%"
+                    }
+                ],
+                "registroRevisionSistemas": [
+                    {
+                        "conceptoId": 146,
+                        "nombre": "conciente",
+                        "valor": "refiere"
+                    },
+                    {
+                        "conceptoId": 147,
+                        "nombre": "orientadoPersona",
+                        "valor": "refiere"
+                    },
+                    {
+                        "conceptoId": 148,
+                        "nombre": "orientadoTiempo",
+                        "valor": "no refiere"
+                    },
+                    {
+                        "conceptoId": 149,
+                        "nombre": "orientadoEspacio",
+                        "valor": "no refiere"
+                    },
+                    {
+                        "conceptoId": 150,
+                        "nombre": "afebril",
+                        "valor": "no aplica"
+                    },
+                    {
+                        "conceptoId": 151,
+                        "nombre": "hidratado",
+                        "valor": "no aplica"
+                    },
+                    {
+                        "conceptoId": 152,
+                        "nombre": "malestarGeneral",
+                        "valor": "no refiere"
+                    },
+                    {
+                        "conceptoId": 153,
+                        "nombre": "llanto",
+                        "valor": "no refiere"
+                    },
+                    {
+                        "conceptoId": 154,
+                        "nombre": "cefalea",
+                        "valor": "refiere"
+                    },
+                    {
+                        "conceptoId": 155,
+                        "nombre": "mareos",
+                        "valor": "refiere"
+                    },
+                    {
+                        "conceptoId": 156,
+                        "nombre": "problemaDesplazamiento",
+                        "valor": "no refiere"
+                    },
+                    {
+                        "conceptoId": 157,
+                        "nombre": "paresias",
+                        "valor": "no refiere"
+                    },
+                    {
+                        "conceptoId": 158,
+                        "nombre": "parestesias",
+                        "valor": "no aplica"
+                    },
+                    {
+                        "conceptoId": 159,
+                        "nombre": "disnea",
+                        "valor": "refiere"
+                    },
+                    {
+                        "conceptoId": 160,
+                        "nombre": "tos",
+                        "valor": "refiere"
+                    },
+                    {
+                        "conceptoId": 161,
+                        "nombre": "expectoracion",
+                        "valor": "refiere"
+                    },
+                    {
+                        "conceptoId": 162,
+                        "nombre": "hemoptisis",
+                        "valor": "no refiere"
+                    },
+                    {
+                        "conceptoId": 163,
+                        "nombre": "retraccionesCostales",
+                        "valor": "no refiere"
+                    },
+                    {
+                        "conceptoId": 164,
+                        "nombre": "dolorPrecordial",
+                        "valor": "no aplica"
+                    },
+                    {
+                        "conceptoId": 165,
+                        "nombre": "apetitoNormal",
+                        "valor": "refiere"
+                    },
+                    {
+                        "conceptoId": 166,
+                        "nombre": "nauseas",
+                        "valor": "refiere"
+                    },
+                    {
+                        "conceptoId": 167,
+                        "nombre": "vomito",
+                        "valor": "no refiere"
+                    },
+                    {
+                        "conceptoId": 168,
+                        "nombre": "disfagia",
+                        "valor": "no refiere"
+                    },
+                    {
+                        "conceptoId": 169,
+                        "nombre": "pirosis",
+                        "valor": "no refiere"
+                    },
+                    {
+                        "conceptoId": 170,
+                        "nombre": "diarrea",
+                        "valor": "no aplica"
+                    },
+                    {
+                        "conceptoId": 171,
+                        "nombre": "constipacion",
+                        "valor": "no aplica"
+                    },
+                    {
+                        "conceptoId": 172,
+                        "nombre": "melenas",
+                        "valor": "no aplica"
+                    },
+                    {
+                        "conceptoId": 173,
+                        "nombre": "Disuria",
+                        "valor": "no aplica"
+                    },
+                    {
+                        "conceptoId": 174,
+                        "nombre": "hematuria",
+                        "valor": "no aplica"
+                    },
+                    {
+                        "conceptoId": 175,
+                        "nombre": "orinaTurbia",
+                        "valor": "no aplica"
+                    },
+                    {
+                        "conceptoId": 176,
+                        "nombre": "edemas",
+                        "valor": "refiere"
+                    },
+                    {
+                        "conceptoId": 177,
+                        "nombre": "fracturas",
+                        "valor": "no refiere"
+                    },
+                    {
+                        "conceptoId": 178,
+                        "nombre": "llenadoCapilarNormal",
+                        "valor": "refiere"
+                    },
+                    {
+                        "conceptoId": 179,
+                        "nombre": "presenciaHeridas",
+                        "valor": "refiere"
+                    },
+                    {
+                        "conceptoId": 180,
+                        "nombre": "hematomas",
+                        "valor": "no refiere"
+                    },
+                    {
+                        "conceptoId": 181,
+                        "nombre": "lesionesTraumaticas",
+                        "valor": "no aplica"
+                    },
+                    {
+                        "conceptoId": null,
+                        "nombre": "guion",
+                        "valor": "Paciente: Consciente..."
+                    }
+                ],
+                "registroEducacionFamilia": [
+                    {
+                        "nombreId": 32,
+                        "nombre": "Plan de tratamiento",
+                        "valorId": 12,
+                        "valor": "no"
+                    },
+                    {
+                        "nombreId": 33,
+                        "nombre": "Proceso de comunicación con salud en casa",
+                        "valorId": 12,
+                        "valor": "no"
+                    },
+                    {
+                        "nombreId": 34,
+                        "nombre": "Instrucciones al alta",
+                        "valorId": 12,
+                        "valor": "no"
+                    },
+                    {
+                        "nombreId": 35,
+                        "nombre": "Cuidado de heridas",
+                        "valorId": 11,
+                        "valor": "si"
+                    },
+                    {
+                        "nombreId": 14,
+                        "nombre": "Dudas e inquietudes",
+                        "valorId": 12,
+                        "valor": "no"
+                    },
+                    {
+                        "nombreId": 15,
+                        "nombre": "Signos y sintomas de alarma",
+                        "valorId": 12,
+                        "valor": "no"
+                    },
+                    {
+                        "nombreId": 16,
+                        "nombre": "Posibles efectos adversos al tratamiento",
+                        "valorId": 12,
+                        "valor": "no"
+                    },
+                    {
+                        "nombreId": null,
+                        "nombre": "guion",
+                        "valorId": null,
+                        "valor": "Se entregó educación a la familia sobre: Cuidado de heridas.."
+                    }
+                ],
+                "registroAspiraciones": null,
+                "registroFototerapia": null,
+                "registroBebeCanguro": null,
+                "registroNebulizacion": null,
+                "notaAsistencial": null,
+                "registroTomaMuestraOrina": null,
+                "registroTomaMuestraSangre": null,
+                "registroBaciloscopia": null,
+                "registroCuidadoBasico": null,
+                "registroListaSeguridadVesical": null,
+                "registroCateteresPICC": null,
+                "registroInstalacionCateteres": null,
+                "registroSondajeOrogastrico": null,
+                "registroSondajeNasogastrico": null,
+                "registroSondajeVesical": null,
+                "registroCitostomia": null,
+                "notaEnfermeria": "Llego al domicilio,....",
+                "horaFinReal": "2026-03-26T14:47:58.400358-05:00",
+                "causaEstadoCita": null,
+                "codigoCausaEstadoCita": null,
+                "autorizaEstadoCita": null
+            }
+        ]
+    },
+    "preguntasPrimeraVisita": null,
+    "preguntasUltimaVisita": null,
+    "signosVitales": null,
+    "alergiasPacientes": null,
+    "revisionSistemas": null,
+    "educacionFamilia": null,
+    "heridasPaciente": null,
+    "heridas": null,
+    "numerosBaciloscopia": null,
+    "notasAnteriores": null,
+    "errorPacientes": null
+}
